@@ -1,4 +1,4 @@
 package org.firstinspires.ftc.teamcode;
-// this file is super helpfull
+// this file is super helpful
 public class GitHubWorkshop {
 }
